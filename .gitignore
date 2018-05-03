@@ -1,0 +1,8 @@
+!/tests/_data/.gitkeep
+/tests/_data/
+!/tests/_output/.gitkeep
+/tests/_output/
+/tests/_support/_generated
+
+/vendor/
+/bin/

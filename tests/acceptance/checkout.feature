@@ -1,0 +1,9 @@
+@a @b
+Feature: checkout
+  In order to ...
+  As a ...
+  I need to ...
+
+  Scenario: try checkout
+    Given a is 100
+    Then b will be 25
