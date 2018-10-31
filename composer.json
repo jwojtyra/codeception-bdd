@@ -1,4 +1,5 @@
 {
+    "name": "aaas sss",
     "require-dev": {
         "codeception/codeception": "^2.4"
     },
